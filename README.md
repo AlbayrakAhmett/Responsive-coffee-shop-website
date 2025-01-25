@@ -28,6 +28,8 @@ Bu projede kullanılan ana teknolojiler:
 - **Flexbox & Grid Layout**: Sayfa düzeni
 - **JavaScript**: Dinamik özellikler
 - **Responsive Design**: Mobil uyumluluk
+- **Swiper CSS**: Dinamik ve dokunmatik kaydırılabilir galeri öğeleri
+
 
 ## Öğrendiğim Konular
 
@@ -41,6 +43,11 @@ Bu projeyi geliştirirken öğrendiğim konular:
 
 ### 3. **Windows Tuşu + . ile Emoji Kullanımı**
 - Web tasarım sürecinde, **Windows tuşu + .** kombinasyonunu kullanarak emoji eklemeyi keşfettim. Bu sayede kullanıcıların kolayca emojileri metinlerine eklemeleri sağlandı.
+
+ ### 4. **Swiper CSS Kullanımı**
+- kütüphanesini kullanarak, dinamik ve dokunmatik özelliklere sahip kaydırılabilir galeri öğeleri eklemeyi öğrendim. Bu sayede görsellerin kolayca kaydırılabilir hale gelmesi, siteyi kullanıcı dostu ve etkileşimli bir hale getirdi.
+
+
 
 ## Pekiştirdiğim Konular
 
