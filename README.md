@@ -49,7 +49,7 @@ Bu projeyi geliştirirken öğrendiğim konular:
 
 
 
-## Pekiştirdiğim Konular
+## Derinlemesine Öğrendiğim Konular
 
 Bu projede geliştirdiğim bazı teknikler ve pekiştirdiğim konular şunlardır:
 
